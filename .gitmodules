@@ -1,0 +1,6 @@
+[submodule "externals/smooth"]
+	path = externals/smooth
+	url = ../../PerMalmberg/Smooth.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = ../../espressif/esp-idf.git
